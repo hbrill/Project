@@ -1,0 +1,8 @@
+TO DO LIST as of 4/18/2020
+1. Developing a basic storyline.
+The plan for this is to develop a short storyline. Instead of creating as many obstacles as I had in mind early on, I think it would be more fit to make the storyline short.
+This will make the code not look as a bunch of if statements and I can spend the remaning time working on a visual interface.
+2. Creating a flowchart for the storyline, from each perspective (user choice)
+3. Start writing the code.
+
+The flowchart and an early version of the program will be passed in on Milestone 2.
